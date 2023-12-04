@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
-<h3 align="center"> I develop mobile applications. I'm learning Swift and iOS Development. I am eager to join a work environment where I can collaborate and learn from others.</h3>
+<h3 align="center"> I develop web/mobile applications. I'm learning Angular-React-Swift and Web/iOS Development. I am eager to join a work environment where I can collaborate and learn from others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakanakkuss&label=Profile%20views&color=0e75b6&style=flat" alt="hakanakkuss" /> </p>
 
-- 🌱 I’m currently learning **Swift, UiKit, ProgrammaticUI, iOS Development**
+- 🌱 I’m currently learning **Angular, TypeScript, JavaScript, Swift, UiKit, ProgrammaticUI, iOS Development**
 
-- 📫 How to reach me **hakannakkus6@gmail.com**
+- 📫 How to reach me **hakannakkus6@gmail.com or www.hakanakkus.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
